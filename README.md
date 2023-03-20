@@ -5,11 +5,11 @@ Check the weather before you make the trip.
 Users Can Use this Application to View the Weather Outlook for Multiple Days and Cities in Order to Plan for their Trip.
 
 ## How It Works:
-When you open the webpage, you are presented with a weather dashboard with form inputs. <br>
-When you search for a city, you will be presented with current and future conditions for that city and that city is added to the search history. <br>
-When you view current weather conditions for that city, you will be presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the the wind speed. <br>
-When you view future weather conditions for that city, you will be presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity. <br>
-When you click on a city in the search history, you are again presented with current and future conditions for that city. <br>
+- When you open the webpage, you are presented with a weather dashboard with form inputs.
+- When you search for a city, you will be presented with current and future conditions for that city and that city is added to the search history.
+- When you view current weather conditions for that city, you will be presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the the wind speed.
+- When you view future weather conditions for that city, you will be presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity.
+- When you click on a city in the search history, you are again presented with current and future conditions for that city.
 
 ## Starter Code Source:
 <li> https://github.com/anthonydominguez86/weather-dashboard-week-6
