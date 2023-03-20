@@ -34,6 +34,6 @@ Users Can Use this Application to View the Weather Outlook for Multiple Days and
 - Clear Button Added
 
 ## Deployed Website:
-https://mahmoo30.github.io/work-day-calendar/
+https://mahmoo30.github.io/weather-dashboard/
   
-![](https://github.com/mahmoo30/weather-dashboard/blob/main/assets/images/webpage.gif)
+![](https://github.com/mahmoo30/weather-dashboard/blob/main/assets/images/webpage.png)
